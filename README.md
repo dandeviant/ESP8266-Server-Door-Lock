@@ -1,7 +1,8 @@
 # ESP8266-Server-Door-Lock-
 Matt's ITT569 Server Door Lock project using NodeMCU ESP8266
 
-Equipment used:
+---
+## IoT Component used:
 
 1. NodeMCU Lua V3 ESP8266 WIFI with CH340C (https://my.cytron.io/p-nodemcu-lua-v3-esp8266-wifi-with-ch340c?search=node%20MCU&description=1)
 2. ESP8266 Baseboard (https://my.cytron.io/p-base-board-for-nodemcu-v3)
