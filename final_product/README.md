@@ -1,4 +1,4 @@
-## Finalized Working Program for the Secure Door Lock
+## Finalized Working Codes for the Secure Door Lock Project
 
 The programs uploaded here are fully checked, tested, verified and applied to the real project.
 Any unverified changes will be uploaded to the "prototype" folder (https://github.com/dandeviant/ESP8266-Server-Door-Lock/tree/main/prototype)
