@@ -17,7 +17,7 @@ Final Report: https://docs.google.com/document/d/1TtaS5LuDU4-CZ0U3n_6-saiICHQAvu
 4. Jumper Wires (male-to-male, male-to-female, female-to-female)
 5. 12V DC Power Supply UK plug (https://my.cytron.io/p-adapter-12v-2a-uk-plug)
 6. DC Jack(Female) to Screw Terminal Adapter (https://my.cytron.io/p-dc-jack-female-to-screw-terminal-adapter)
-7. Single Channel 5V Relay Breakout Board (Active-low)
+7. Single Channel 5V Relay Breakout Board (Active-low) (https://my.cytron.io/p-single-channel-5v-relay-breakout-board)
 8. I2C Serial LCD 16x2
 9. Breadboard 8.5x5.5cm (https://my.cytron.io/p-breadboard-8.5x5.5cm-400-holes?search=breadboard&description=1)
 10. Resistor 0.25W (https://my.cytron.io/p-resistor-0.25w-5-1m-22m?search=resistor&description=1)
