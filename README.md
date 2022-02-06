@@ -5,6 +5,10 @@ Matt's ITT569 Server Door Lock project using NodeMCU ESP8266
 Final Report: https://docs.google.com/document/d/1TtaS5LuDU4-CZ0U3n_6-saiICHQAvu4eM6Es-EP15Qc/edit
 
 ---
+## Detailed Design
+<img src="image/Circuit diagram_bb.png">
+
+---
 ## IoT Component used:
 
 1. NodeMCU Lua V3 ESP8266 WIFI with CH340C (https://my.cytron.io/p-nodemcu-lua-v3-esp8266-wifi-with-ch340c?search=node%20MCU&description=1)
