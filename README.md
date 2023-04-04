@@ -1,8 +1,5 @@
-# ESP8266 Server Door Lock Using HTTP Protocol
-Matt's ITT569 Server Door Lock project using NodeMCU ESP8266
-
-
-Final Report: https://docs.google.com/document/d/1TtaS5LuDU4-CZ0U3n_6-saiICHQAvu4eM6Es-EP15Qc/edit
+# ESP8266 Server Door Lock Using NodeMCU HTTP Server
+Daniel's ITT569 Server Door Lock project using NodeMCU ESP8266
 
 ---
 ## Detailed Design
