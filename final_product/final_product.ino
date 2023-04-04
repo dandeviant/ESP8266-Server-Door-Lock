@@ -68,8 +68,8 @@ const char block_page[] PROGMEM = R"=====(
 )=====";
 
 //SSID and Password of your WiFi router
-const char* ssid = "asmawi71-2.4GHz@unifi";
-const char* password = "papa281275";
+const char* ssid = "YOUR-WIFI-SSID";
+const char* password = "YOUR-WIFI-PASSWORD";
 
 ESP8266WebServer server(80); //Server on port 80
 
